@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOd9kFWo+UNKNNvwArDBtVKfEnSymEoxVoSVH1SG7QFB1tQbWaEIhP5FJagGsYDNjusARKrLqWo9FYQSEabxzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trand\\RiderProjects\\ShapeDrawingII\\ShapeDrawingII\\ShapeDrawingII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\trand\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\trand\\.nuget\\packages\\splashkit\\1.0.2\\splashkit.1.0.2.nupkg.sha512",
+    "C:\\Users\\trand\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\trand\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

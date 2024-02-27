@@ -1,0 +1,17 @@
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\bin\Debug\net8.0\ShapeDrawingII.exe
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\bin\Debug\net8.0\ShapeDrawingII.deps.json
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\bin\Debug\net8.0\ShapeDrawingII.runtimeconfig.json
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\bin\Debug\net8.0\ShapeDrawingII.dll
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\bin\Debug\net8.0\ShapeDrawingII.pdb
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\bin\Debug\net8.0\SplashkitSDK.dll
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.csproj.AssemblyReference.cache
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.AssemblyInfoInputs.cache
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.AssemblyInfo.cs
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.csproj.CoreCompileInputs.cache
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.csproj.CopyComplete
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.dll
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\refint\ShapeDrawingII.dll
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.pdb
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ShapeDrawingII.genruntimeconfig.cache
+C:\Users\trand\RiderProjects\ShapeDrawingII\ShapeDrawingII\obj\Debug\net8.0\ref\ShapeDrawingII.dll
